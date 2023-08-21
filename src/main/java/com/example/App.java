@@ -10,6 +10,11 @@ public class App {
     private static final String JDBC_URL = "jdbc:postgresql://localhost/postgres";
 
     public static void main(String[] args) {
+
+        System.out.println(" ");
+
+        System.out.println("Iniciando...");
+
         new App();
     }
 
